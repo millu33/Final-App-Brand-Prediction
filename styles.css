@@ -1,0 +1,11 @@
+button {
+  background-color: darkgreen;
+  size: 6cm;
+  text-align:left;
+}
+
+p {
+    text-align: left;
+    font-size: larger;
+    color: rgb(5, 136, 71);
+}
