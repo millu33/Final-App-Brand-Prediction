@@ -18,7 +18,7 @@ def load_css(file_path):
     with open(file_path) as f:
         st.html(f"<style>{f.read()}</style>")
 import pathlib
-css_path = pathlib.Path('assets/styles.css')
+css_path = pathlib.Path('styles.css')
 load_css(css_path)
 
 
